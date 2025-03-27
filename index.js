@@ -1,7 +1,7 @@
 const axios = require("axios");
 const fs = require("fs");  // Pour écrire dans un fichier
 
-const GOOGLE_API_KEY = "AIzaSyCMnh03y5wgeAGobCBiIQmR9qMvgWc-b8c"; // 🔴 Mets ta clé API ici
+const GOOGLE_API_KEY = ""; // 🔴 Mets ta clé API ici
 const LOCATIONS = [
   "45.764043,4.835659", // 📍 Centre de Lyon
   "45.748460,4.846710", // 📍 Lyon Sud
